@@ -42,7 +42,7 @@ This is **Version 2.0** of the project, featuring an improved interface, Hangman
 ```text
 Hangman Game V2/
 │
-├── main.cpp
+├── Hang man Game V2.cpp
 ├── words.txt
 └── README.md
 ```
